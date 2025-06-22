@@ -31,7 +31,7 @@ local TextBox = tab:AddTextbox("TextBox", function(text)
 end)
 ```
 
-#-- Button Creation
+# Button Creation
 ```lua
 local button = tab:AddButton("Button", function()
 	print("Button was clicked!")
