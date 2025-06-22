@@ -1,4 +1,4 @@
-![gifhere](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![gifhere](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM3NXc5enZrbjloZnhibjlkNDY0anBoamxjcHliYWc3MHF4N2M1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8X85VwJs1MM9SvdqO0/giphy.gif)
 
 # Discord Server: https://discord.gg/ppWVwNDaAB
 ## Owner Discord User: adop9k_2077
