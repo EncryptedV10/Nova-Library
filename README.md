@@ -12,3 +12,7 @@ To Add Changes To The Library Contact Owner On Discord (I don't accept Friends R
 # Nova Hub Team:
 ## Adopt, Lucky, Zedrox, Aabis, Redabe
 ### Users In Discord: Adopt9k_2077 , tkt.lucky, verrouilleur (Zedrox), zziblameaabiszz, redabe21
+
+# Ad For Zedrox
+## Selling 2,65 euro nitro (paypal) dm verrouilleur on discord
+### Telegram: https://t.me/+FMol9f_bH5A3NGJk Discord: https://discord.gg/3j2bh4FwXk 
