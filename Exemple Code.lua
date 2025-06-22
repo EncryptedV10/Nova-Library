@@ -1,5 +1,10 @@
 -- Booting Library
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV10/Nova-Library/refs/heads/main/Library.lua", true))()
+## How to Use
+
+```lua
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/repo/main/path/to/Library.lua", true))()
+```
 
 -- Window Creation
 local window = Library:AddWindow("Library Name")
