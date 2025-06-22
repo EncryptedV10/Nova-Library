@@ -1,4 +1,4 @@
--- Booting
+-- Booting Library
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV10/Nova-Library/refs/heads/main/Library.lua", true))()
 
 -- Window Creation
