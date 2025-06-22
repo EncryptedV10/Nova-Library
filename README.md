@@ -5,4 +5,8 @@
 To Add Changes To The Library Contact Owner On Discord (I don't accept Friends Request so you will have to join the server
 
 # ZTX Clan Discord Server: https://discord.gg/ztxpublic
-## Message From ZTX Owners: Ryxzou: ZTX:
+## ZTX Owners: Ryxzou | ZTX
+
+# Nova Hub Team:
+## Adopt, Lucky, Zedrox, Aabis, Redabe
+### Users In Discord: Adopt9k_2077 , tkt.lucky, verrouilleur (Zedrox), zziblameaabiszz, redabe21
