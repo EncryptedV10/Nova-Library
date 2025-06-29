@@ -1,2 +1,0 @@
--- Nova Library Made By Adopt
--- adopt9k_2077 On Discord
